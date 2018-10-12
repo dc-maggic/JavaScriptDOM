@@ -1,0 +1,36 @@
+body {
+    font-family:          "Helvetica","Arial",serif;
+    color:                rgb(255, 168, 233);
+    background-color:     rgb(255, 232, 254);
+    margin:               1em 10%;
+}
+h1 {
+    color:                rgb(255, 168, 233);
+    background-color:     transparent;
+    font-weight:          bold;
+    text-decoration:      none;
+}
+ul {
+    padding:              0;
+}
+li {
+    display: inline;
+    padding:              1em;
+    list-style:           none;
+}
+img {
+    display:              block;
+    clear:                both;
+}
+a {
+    text-decoration:        none;
+}
+a:link {
+    color:                white;
+}
+a:visited {
+    color:                red;
+}
+a:hover {
+    color:                yellow;
+}
